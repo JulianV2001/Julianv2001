@@ -8,10 +8,10 @@
 
 <br>
 
-- 🏫: Soy autodidacta en programación y estoy constantemente aprendiendo nuevas tecnologias
-- 🌱: Estoy aprendiendo a crear páginas web modernas y a manejar mejor mis habilidades en programacion
-- 🤔 Estoy abierto a nuevas oportunidades laborales y colaboraciones.
-- 💬: Pregúntame sobre HTML, CSS, Bootstrap, JavaScript y desarrollo de páginas web. 🌐🖌️
+- 🏫: I am self-taught in programming and constantly learning
+- 🌱: I am learning to create modern websites and improve my programming skills.
+- 🤔 I am open to new job opportunities and collaborations.
+- 💬: Ask me about HTML, CSS, Bootstrap, JavaScript, and web development. 🌐🖌️
 
 
 <br><br>
