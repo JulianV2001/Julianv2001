@@ -65,4 +65,5 @@
 </p>
 
 <br>
-<h3 Mail: julianchacon@hotmail.com.ar /></h3>
+
+summary><h2 style="display: inline-block">Mail : julianchacon@hotmail.com.ar </h2></summary>
